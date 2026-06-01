@@ -1,6 +1,6 @@
 # 🦖 Pokédex Mobile Application
 
-![App Banner](./assets/appmockup.png)
+![App Banner](./assets/appmockup.jpg)
 
 <div align="center">
   
